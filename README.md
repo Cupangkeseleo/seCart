@@ -52,4 +52,4 @@ Before you start, make sure you have installed:
 3.  Open your web browser and go to this address to start:
     **http://localhost:3000/login.html**
 
-That's it! The application should now be fully functional."# seCart" 
+That's it! The application should now be fully functional.
